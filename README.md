@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Rafael Alves]
+# 👋 Olá, eu sou Rafael Alves Santos
 
 Estudante de **Análise e Desenvolvimento de Sistemas**, apaixonado por programação e focado em construir soluções web eficientes e aprendizado contínuo.
 
@@ -26,18 +26,3 @@ Estudante de **Análise e Desenvolvimento de Sistemas**, apaixonado por programa
 
 #### Banco de Dados
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
----
-
-### 📊 Estatísticas no GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=dracula"/>
-</div>
-
----
-
-<div align="center">
-  <sub>Desenvolvido por [Seu Nome] 👋</sub>
-</div>
