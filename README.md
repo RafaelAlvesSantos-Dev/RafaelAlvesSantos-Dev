@@ -1,30 +1,24 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:0d1117,50:00f2fe,100:7928ca&height=200&section=header&text=RAFAEL%20ALVES%20SANTOS&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" alt="Header Banner" />
-</div>
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F2FE&center=true&vCenter=true&width=650&height=50&lines=System.Initialize(%22Rafael_Alves_Santos%22);>_ Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;>_ Developing+Web+Solutions+%26+Software+Logic;>_ JavaScript+%7C+Node.js+%7C+Python+%7C+C+%7C+SQL;>_ Cyberpunk+%2B+AI+HUD+Interface+Active" alt="Typing SVG" />
-  </a>
-</div>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:3b82f6,100:8b5cf6&height=220&section=header&text=RAFAEL%20ALVES%20SANTOS&fontSize=42&fontColor=ffffff&fontAlignY=42&animation=twinkle" width="100%" alt="Header Banner" />
 
-<div align="center">
+  <br />
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&height=45&lines=Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Desenvolvedor+Web+%7C+HTML,+CSS+%26+JavaScript;Criando+solu%C3%A7%C3%B5es+e+transformando+l%C3%B3gica+em+c%C3%B3digo" alt="Digitando SVG" />
+
+  <br /><br />
+
   <a href="mailto:rafaelbrutos18@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-rafaelbrutos18%40gmail.com-00f2fe?style=for-the-badge&logo=gmail&logoColor=black" alt="Email Badge"/>
+    <img src="https://img.shields.io/badge/EMAIL-RAFAELBRUTOS18%40GMAIL.COM-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F172A" alt="Email" />
   </a>
-  <a href="https://github.com/rafaelbrutos18">
-    <img src="https://img.shields.io/badge/LOCATION-Colombo%2C%20PR%20--%20Brasil-7928ca?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location Badge"/>
-  </a>
-  <a href="https://github.com/rafaelbrutos18">
-    <img src="https://img.shields.io/badge/STATUS-Online%20%26%20Compiling-00ff87?style=for-the-badge&logo=statuspage&logoColor=black" alt="Status Badge"/>
-  </a>
-</div>
+  <img src="https://img.shields.io/badge/LOCATION-COLOMBO%2C%20PR%20--%20BRASIL-8B5CF6?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0F172A" alt="Location" />
+  <img src="https://img.shields.io/badge/STATUS-ONLINE%20%26%20COMPILING-10B981?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=0F172A" alt="Status" />
 
-<br/>
+</div>
 
 ---
 
-## 🤖 [01] // SYSTEM OVERVIEW :: SOBRE MIM
+## 🤖 [01] / SYSTEM OVERVIEW :: SOBRE MIM
 
 <table border="0">
   <tr>
@@ -51,7 +45,7 @@
 
 ---
 
-## 💻 [02] // TECH ARSENAL :: TECNOLOGIAS & FERRAMENTAS
+## 💻 [02] / TECH ARSENAL :: TECNOLOGIAS & FERRAMENTAS
 
 <div align="center">
 
