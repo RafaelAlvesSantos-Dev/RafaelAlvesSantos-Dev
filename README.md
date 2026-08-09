@@ -75,7 +75,7 @@ Modelagem de dados, queries otimizadas, normalizaçãoe relacionamentos complexo
 
 Estou aprofundando meus conhecimentos em:
 
-- **Frontend avançado** — JavaScript puro, manipulação DOM otimizada, padrões de design
+- **Frontend intermediário** — JavaScript puro, manipulação DOM otimizada, padrões de design
 - **Backend robusto** — APIs RESTful, estrutura de projetos escaláveis, boas práticas
 - **SQL** — queries complexas, índices, performance, modelagem de dados
 
