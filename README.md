@@ -1,132 +1,86 @@
-<svg width="100%" viewBox="0 0 1200 280" style="background: linear-gradient(135deg, #0f172a 0%, #1e3a8a 100%); display: block;">
-  <defs>
-    <linearGradient id="titleGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#3b82f6;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#60a5fa;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-  <!-- Decorative shapes -->
-  <circle cx="150" cy="80" r="40" fill="#3b82f6" opacity="0.1"/>
-  <circle cx="1050" cy="200" r="60" fill="#8b5cf6" opacity="0.1"/>
-  <rect x="100" y="220" width="200" height="3" fill="#3b82f6" opacity="0.3"/>
-  <rect x="900" y="80" width="200" height="3" fill="#8b5cf6" opacity="0.3"/>
-  
-  <!-- Main title -->
-  <text x="600" y="100" font-size="58" font-weight="700" fill="url(#titleGradient)" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" letter-spacing="-1">
-    Rafael Alves Santos
-  </text>
-  
-  <!-- Subtitle -->
-  <text x="600" y="150" font-size="24" fill="#93c5fd" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" letter-spacing="1">
-    Full Stack Developer
-  </text>
-  
-  <!-- Divider line -->
-  <line x1="250" y1="170" x2="950" y2="170" stroke="#3b82f6" stroke-width="2" opacity="0.5"/>
-  
-  <!-- Contact info badges -->
-  <g>
-    <!-- Email badge -->
-    <rect x="280" y="200" width="120" height="50" rx="8" fill="#0f172a" stroke="#3b82f6" stroke-width="2"/>
-    <text x="340" y="220" font-size="12" fill="#3b82f6" text-anchor="middle" font-weight="500" font-family="Segoe UI, Arial, sans-serif">EMAIL</text>
-    <text x="340" y="237" font-size="11" fill="#93c5fd" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif">rafaelbrutos18</text>
-    
-    <!-- GitHub badge -->
-    <rect x="440" y="200" width="120" height="50" rx="8" fill="#0f172a" stroke="#3b82f6" stroke-width="2"/>
-    <text x="500" y="220" font-size="12" fill="#3b82f6" text-anchor="middle" font-weight="500" font-family="Segoe UI, Arial, sans-serif">GITHUB</text>
-    <text x="500" y="237" font-size="11" fill="#93c5fd" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif">@rafaelbrutos18</text>
-    
-    <!-- Location badge -->
-    <rect x="600" y="200" width="120" height="50" rx="8" fill="#0f172a" stroke="#3b82f6" stroke-width="2"/>
-    <text x="660" y="220" font-size="12" fill="#3b82f6" text-anchor="middle" font-weight="500" font-family="Segoe UI, Arial, sans-serif">LOCATION</text>
-    <text x="660" y="237" font-size="11" fill="#93c5fd" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif">Colombo, PR</text>
-    
-    <!-- Status badge -->
-    <rect x="760" y="200" width="120" height="50" rx="8" fill="#0f172a" stroke="#3b82f6" stroke-width="2"/>
-    <text x="820" y="220" font-size="12" fill="#3b82f6" text-anchor="middle" font-weight="500" font-family="Segoe UI, Arial, sans-serif">STATUS</text>
-    <text x="820" y="237" font-size="11" fill="#10b981" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif">Online</text>
-  </g>
-</svg>
-
----
-
-## Bem-vindo
-
-Desenvolvedor full-stack com foco em construir aplicações sólidas, escaláveis e com código limpo. Atualmente aprofundando conhecimentos em **Frontend**, **Backend** e **Bancos de Dados SQL**.
-
-Sou cursando Análise e Desenvolvimento de Sistemas no IFPR Campus Colombo, onde coloco em prática projetos que vão além da sala de aula.
-
----
-
-## Tech Stack
-
-### Frontend
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&labelColor=0f172a)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white&labelColor=0f172a)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black&labelColor=0f172a)
+  <!-- Banner Superior Moderno -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:3b82f6,100:8b5cf6&height=220&section=header&text=RAFAEL%20ALVES%20SANTOS&fontSize=42&fontColor=ffffff&fontAlignY=42&animation=twinkle" width="100%" alt="Header Banner" />
 
-</div>
+  <br />
 
-Especializado em **vanilla JavaScript** com manipulação de DOM, design responsivo e interfaces intuitivas. Sem dependência de frameworks — código eficiente e performático.
+  <!-- Efeito de Digitação SVG Corrigido -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&height=45&lines=Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Desenvolvedor+Web+%7C+HTML,+CSS+%26+JavaScript;Criando+solu%C3%A7%C3%B5es+e+transformando+l%C3%B3gica+em+c%C3%B3digo" alt="Digitando SVG" />
 
-### Backend
-<div align="center">
+  <br /><br />
 
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white&labelColor=0f172a)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white&labelColor=0f172a)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=0f172a)
-
-</div>
-
-Desenvolvimento de APIs e servidores com **Node.js** e **Express**. Experiência com autenticação, roteamento e middleware. Conhecimento em **Python** para lógica de programação e análise.
-
-### Database & SQL
-<div align="center">
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white&labelColor=0f172a)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white&labelColor=0f172a)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white&labelColor=0f172a)
-
-</div>
-
-Modelagem de dados, queries otimizadas, normalizaçãoe relacionamentos complexos. Confortável com **PostgreSQL**, **MySQL** e **SQLite** em projetos de diferentes escalas.
-
-### Tools & Workflow
-<div align="center">
-
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white&labelColor=0f172a)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white&labelColor=0f172a)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black&labelColor=0f172a)
+  <!-- Badges Harmonizados com Paleta Dark Modern -->
+  <a href="mailto:rafaelbrutos18@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-RAFAELBRUTOS18%40GMAIL.COM-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F172A" alt="Email" />
+  </a>
+  <img src="https://img.shields.io/badge/LOCATION-COLOMBO%2C%20PR%20--%20BRASIL-8B5CF6?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0F172A" alt="Location" />
+  <img src="https://img.shields.io/badge/STATUS-ONLINE%20%26%20COMPILING-10B981?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=0F172A" alt="Status" />
 
 </div>
 
 ---
 
-## Foco Atual
-
-Estou aprofundando meus conhecimentos em:
-
-- **Frontend avançado** — JavaScript puro, manipulação DOM otimizada, padrões de design
-- **Backend robusto** — APIs RESTful, estrutura de projetos escaláveis, boas práticas
-- **SQL** — queries complexas, índices, performance, modelagem de dados
+<table border="0">
+  <tr>
+    <td width="60%" valign="top">
+      <h3>⚡ Sobre mim</h3>
+      <p>
+        Olá! Meu nome é <b>Rafael Alves Santos</b>. Sou graduando em <b>Tecnologia em Análise e Desenvolvimento de Sistemas</b> pelo <b>IFPR - Câmpus Colombo</b>.
+      </p>
+      <p>
+        Entusiasta da tecnologia, arquitetura de sistemas e universo Cyberpunk / IA. Atualmente, focado na construção de aplicações web modernas, refinamento de lógica de programação e expansão no ecossistema Full-Stack (Front-end, Back-end e Banco de Dados).
+      </p>
+      <ul>
+        <li>🎓 <b>Formação:</b> ADS - Instituto Federal do Paraná (IFPR - Colombo)</li>
+        <li>💻 <b>Foco Atual:</b> Aperfeiçoando Front-end, Back-end e Banco de Dados</li>
+        <li>🚀 <b>Projeto> Desenvolver meu primeiro site profissional completo para meu TCC e aprendizado</li>
+        <li>🎯 <b>Objetivo:</b> Desenvolver aplicações de alto desempenho com código limpo e arquitetura escalável</li>
+      </ul>
+    </td>
+</table>
 
 ---
 
-## Formação
-
-**Tecnologia em Análise e Desenvolvimento de Sistemas**  
-*Instituto Federal do Paraná · Campus Colombo*  
-Cursando
-
----
+## 💻 Meus conhecimentos
 
 <div align="center">
 
-**Vamos conversar? Entre em contato comigo.**
+### 🎨 Front-end Matrix
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/DOM_Manipulation-00F2FE?style=for-the-badge&logo=codeforces&logoColor=black" alt="DOM"/>
+  <img src="https://img.shields.io/badge/Responsive_Design-7928CA?style=for-the-badge&logo=responsive&logoColor=white" alt="Responsive Design"/>
+</p>
 
-[📧 Email](mailto:rafaelbrutos18@gmail.com) — [🐙 GitHub](https://github.com/rafaelbrutos18)
+### ⚙️ Back-end & Programming Core
+<p>
+  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/C_Language-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/Logic_%26_Algorithms-FF6C37?style=for-the-badge&logo=diagramsdotnet&logoColor=white" alt="Logic"/>
+</p>
+
+### 🛢️ Database & Data Systems
+<p>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
+</p>
+
+### 🛠️ Workstation & Dev Tools
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Flowgorithm-FFD700?style=for-the-badge&logo=diagramsdotnet&logoColor=black" alt="Flowgorithm"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Terminal_Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
+</p>
 
 </div>
+
+---
